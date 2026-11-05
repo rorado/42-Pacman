@@ -1,1 +1,2 @@
 PACMAN c
+  S  A
